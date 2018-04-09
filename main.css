@@ -7,7 +7,7 @@ h1 {
     text-align: center;
 }
 
-.btn {
+a.btn {
     display: block;
     width: 115px;
     height: 25px;
