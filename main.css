@@ -1,29 +1,29 @@
 body {
     background-image: url("Images/paper.jpg");
     background-color: darkslategrey;
+    width:100%;
 }
 
 h1 {
     text-align: center;
 }
 
-
-button {
+#github {
     background-color: #d34613;
-    width: 80px;
-    height:40px;
+    padding: 10px;
+    text-decoration: none;
     color: white;
-    font-size: 14px;
+    border-radius: 15px;
 }
 
 .one {
-    margin-bottom: 50px;
+    padding: 10px;
 }
 
 .two {
-    margin-bottom: 50px;
+    padding: 10px;
 }
 
 .three {
-    margin-bottom: 50px;
+    Padding: 10px;
 }
