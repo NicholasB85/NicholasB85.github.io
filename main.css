@@ -7,19 +7,27 @@ h1 {
     text-align: center;
 }
 
+a {
+    font-size: 14px;
+    color: white;
+
+}
 
 button {
-    background-color: red;
+    background-color: #d34613;
+    width: 40px;
+    height:25px;
+    border-radius: 15px;
 }
 
 .one {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .two {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .three {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
